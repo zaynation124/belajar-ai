@@ -1,0 +1,3 @@
+Bedanya AI, Machine Learning, dan LLM.
+Kenapa AI bisa hallucination.
+Apa itu terminal dan kenapa engineer memakainya.

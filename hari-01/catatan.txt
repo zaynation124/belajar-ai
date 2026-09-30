@@ -1,0 +1,3 @@
+ai adlah kumpulan kecerdasan dari berbagai sumber
+machine learning adlah hal yang memproses apa yang sudah lama dan mencari yang baru dari data
+llm adalah hal yang mencari apa yang akan muncul pada teks selanjutnya
